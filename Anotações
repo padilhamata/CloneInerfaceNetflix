@@ -1,0 +1,24 @@
+box-sizing: border-box Não deixa os elementos superarem os limite do propio elemento 
+
+Para declarar variavel no css devemos usar a tag root. exemplo:
+:root{
+    --vermelho: #E50914;
+    --preta: #141414;
+}
+exemplo de uso
+background: var(--preta); 
+
+Antes de fazer faça um mokap
+
+Para fazer efeitos de css, no caso quando o mause passa por cima o elemento recebe a cor
+header nav a:hover{
+    color: #fff;
+}
+
+O de cima alinha os itens na vertical, o de baixo alinha na horizontal
+align-items: center;
+   justify-content: center;
+
+Aula 4 Topp
+
+baixar icones: fontawsome
